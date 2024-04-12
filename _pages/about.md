@@ -45,6 +45,7 @@ OS : Windows 11, Ubuntu 23.10 <br>
 ## 노트북
 
 MacBook Pro M1(Late 2020)<br>
+Lenovo Thinkpad T14 Gen3 (14'' Intel) <br>
 
 ## ETC
 
